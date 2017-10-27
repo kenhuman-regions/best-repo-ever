@@ -1,3 +1,5 @@
 # best-repo-ever
 
-myfeaturebranch addition.
+myfeaturebranch addition
+
+new-branch-1 addition
